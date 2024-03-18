@@ -55,7 +55,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to Sharath Jenkins Practice  </h1>
+    <h1>Welcome to Sharath Jenkins Practice automated with trigger  </h1>
     <h2>Menu</h2>
 
     <div id="menu">
